@@ -1,0 +1,84 @@
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.Anasayfa.resources
+C:\Users\ataka\Desktop\PROJEEEE\PROJE\PROJE\obj\Debug\PROJE.GirisEkrani.resources
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.Anasayfa.resources
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.GirisEkrani.resources
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.Sayfa3.resources
+C:\Users\ataka\Desktop\PROJEEEE - Kopya\PROJE\PROJE\obj\Debug\PROJE.IslemUpdate.resources
+C:\Users\ataka\Desktop\b\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\b\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\b\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\b\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bitti\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bittiTaze\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\bittiTaze - Kopya\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\sonHali\PROJE\PROJE\obj\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\bin\Debug\PROJE.exe.config
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\bin\Debug\PROJE.exe
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\bin\Debug\PROJE.pdb
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.csprojAssemblyReference.cache
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.Anaekran.resources
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.Properties.Resources.resources
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.csproj.GenerateResource.cache
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.csproj.CoreCompileInputs.cache
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.exe
+C:\Users\ataka\Desktop\proje\PROJE\PROJE\obj\Debug\PROJE.pdb
